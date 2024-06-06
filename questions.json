@@ -1,0 +1,100 @@
+{
+  "Rock": {
+    "easy": [
+      {"question": "What is test1 easy1?", "answer": "blank"},
+      {"question": "What is test1 easy2?", "answer": "blank"}
+    ],
+    "medium": [
+      {"question": "What is test1 medium1?", "answer": "blank"},
+      {"question": "What is test1 medium2?", "answer": "blank"}
+    ],
+    "hard": [
+      {"question": "What is test1 hard1?", "answer": "blank"},
+      {"question": "What is test1 hard2?", "answer": "blank"}
+    ]
+  },
+  "Metal": {
+    "easy": [
+      {"question": "What is test2 easy1?", "answer": "blank"},
+      {"question": "What is test2 easy2?", "answer": "blank"}
+    ],
+    "medium": [
+      {"question": "What is test2 medium1?", "answer": "blank"},
+      {"question": "What is test2 medium2?", "answer": "blank"}
+    ],
+    "hard": [
+      {"question": "What is test2 hard1?", "answer": "blank"},
+      {"question": "What is test2 hard2?", "answer": "blank"}
+    ]
+  },
+  "Pop": {
+    "easy": [
+      {"question": "What is test3 easy1?", "answer": "blank"},
+      {"question": "What is test3 easy2?", "answer": "blank"}
+    ],
+    "medium": [
+      {"question": "What is test3 medium1?", "answer": "blank"},
+      {"question": "What is test3 medium2?", "answer": "blank"}
+    ],
+    "hard": [
+      {"question": "What is test3 hard1?", "answer": "blank"},
+      {"question": "What is test3 hard2?", "answer": "blank"}
+    ]
+  },
+  "Country": {
+    "easy": [
+      {"question": "What is test4 easy1?", "answer": "blank"},
+      {"question": "What is test4 easy2?", "answer": "blank"}
+    ],
+    "medium": [
+      {"question": "What is test4 medium1?", "answer": "blank"},
+      {"question": "What is test4 medium2?", "answer": "blank"}
+    ],
+    "hard": [
+      {"question": "What is test4 hard1?", "answer": "blank"},
+      {"question": "What is test4 hard2?", "answer": "blank"}
+    ]
+  },
+  "Jazz": {
+    "easy": [
+      {"question": "What is test5 easy1?", "answer": "blank"},
+      {"question": "What is test5 easy2?", "answer": "blank"}
+    ],
+    "medium": [
+      {"question": "What is test5 medium1?", "answer": "blank"},
+      {"question": "What is test5 medium2?", "answer": "blank"}
+    ],
+    "hard": [
+      {"question": "What is test5 hard1?", "answer": "blank"},
+      {"question": "What is test5 hard2?", "answer": "blank"}
+    ]
+  },
+  "Classical": {
+    "easy": [
+      {"question": "What is test6 easy1?", "answer": "blank"},
+      {"question": "What is test6 easy2?", "answer": "blank"}
+    ],
+    "medium": [
+      {"question": "What is test6 medium1?", "answer": "blank"},
+      {"question": "What is test6 medium2?", "answer": "blank"}
+    ],
+    "hard": [
+      {"question": "What is test6 hard1?", "answer": "blank"},
+      {"question": "What is test6 hard2?", "answer": "blank"}
+    ]
+  },
+  "Rap": {
+    "easy": [
+      {"question": "What is test7 easy1?", "answer": "blank"},
+      {"question": "What is test7 easy2?", "answer": "blank"}
+    ],
+    "medium": [
+      {"question": "What is test7 medium1?", "answer": "blank"},
+      {"question": "What is test7 medium2?", "answer": "blank"}
+    ],
+    "hard": [
+      {"question": "What is test7 hard1?", "answer": "blank"},
+      {"question": "What is test7 hard2?", "answer": "blank"}
+    ]
+  }
+}
