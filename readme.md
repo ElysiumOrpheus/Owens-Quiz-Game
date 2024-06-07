@@ -37,4 +37,7 @@ This is Owen's Quiz Game, a trivia game where you can see if you know as much mu
 
 ## Contact
 
-If you have any questions feel free to send me a message on replit, my email, owen.o_farrell@my.ucdsb.ca, or on my github, https://github.com/OwenOfarrell/Owens-Quiz-Game/.
+If you have any questions feel free to send me a message on one of these places:
+Replit: https://replit.com/@owenofarrell202
+Email: owen.o_farrell@my.ucdsb.ca
+Github: https://github.com/OwenOfarrell/Owens-Quiz-Game/
