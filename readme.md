@@ -33,7 +33,7 @@ This is Owen's Quiz Game, a trivia game where you can see if you know as much mu
 
 1. Open the `questions.json` file.
 2. To add a new category use the following template and put it in the middle, to place it at the end or the start of the `questions.json` you will need to adjust the beginning and end like it is writtin in the file
-```json
+```
 },
 "category_name": {
   "200": [
