@@ -53,6 +53,10 @@ This is Owen's Quiz Game, a trivia game where you can see if you know as much mu
   ]
 },
 ```
+3. To add new questions use this format and adjust the snippet based upon if its a single question in a category or multiple. You can check the `questions.json` for an example
+```
+{"question": "Put your question here", "answer": "Put your answer here"}
+```
 
 ## Contact
 
