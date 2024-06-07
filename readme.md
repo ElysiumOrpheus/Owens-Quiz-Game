@@ -32,8 +32,27 @@ This is Owen's Quiz Game, a trivia game where you can see if you know as much mu
 ## How to Add More Questions
 
 1. Open the `questions.json` file.
-2. To add a new question under an already existing category you follow the format already there or you can copy the line above and modify it to your liking.
-3. To add a new category, copy an already existing category and make changes as you see fit, or attempt to follow the format I wrote.
+2. To add a new category use the following template and put it in the middle, to place it at the end or the start of the `questions.json` you will need to adjust the beginning and end like it is writtin in the file
+```json
+},
+"category_name": {
+  "200": [
+    {"question": "Put your question here", "answer": "Put your answer here"}
+  ],
+  "400": [
+    {"question": "Put your question here", "answer": "Put your answer here"}
+  ],
+  "600": [
+    {"question": "Put your question here", "answer": "Put your answer here"}
+  ],
+  "800": [
+    {"question": "Put your question here", "answer": "Put your answer here"}
+  ],
+  "1000": [
+    {"question": "Put your question here", "answer": "Put your answer here"}
+  ]
+},
+```
 
 ## Contact
 
