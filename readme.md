@@ -38,6 +38,6 @@ This is Owen's Quiz Game, a trivia game where you can see if you know as much mu
 ## Contact
 
 If you have any questions feel free to send me a message on one of these places:
-Replit: https://replit.com/@owenofarrell202
-Email: owen.o_farrell@my.ucdsb.ca
-Github: https://github.com/OwenOfarrell/Owens-Quiz-Game/
+1. Replit: https://replit.com/@owenofarrell202
+2. Email: owen.o_farrell@my.ucdsb.ca
+3. Github: https://github.com/OwenOfarrell/Owens-Quiz-Game/
