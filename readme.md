@@ -34,28 +34,49 @@ This is Owen's Quiz Game, a trivia game where you can see if you know as much mu
 1. Open the `questions.json` file.
 2. To add a new category use the following template and put it in the middle, to place it at the end or the start of the `questions.json` you will need to adjust the beginning and end like it is writtin in the file
 ```
-},
 "category_name": {
   "200": [
-    {"question": "Put your question here", "answer": "Put your answer here"}
+    {
+      "question": "Put your question here.",
+      "choices": ["Option 1", "Option 2", "Option 3", "Option 4"],
+      "answer": "Put your answer here"
+    }
   ],
   "400": [
-    {"question": "Put your question here", "answer": "Put your answer here"}
+    {
+      "question": "Put your question here.",
+      "choices": ["Option 1", "Option 2", "Option 3", "Option 4"],
+      "answer": "Put your answer here"
+    }
   ],
   "600": [
-    {"question": "Put your question here", "answer": "Put your answer here"}
+    {
+      "question": "Put your question here.",
+      "choices": ["Option 1", "Option 2", "Option 3", "Option 4"],
+      "answer": "Put your answer here"
+    }
   ],
   "800": [
-    {"question": "Put your question here", "answer": "Put your answer here"}
+    {
+      "question": "Put your question here.",
+      "choices": ["Option 1", "Option 2", "Option 3", "Option 4"],
+      "answer": "Put your answer here"
+    }
   ],
   "1000": [
-    {"question": "Put your question here", "answer": "Put your answer here"}
+    {
+      "question": "Put your question here.",
+      "choices": ["Option 1", "Option 2", "Option 3", "Option 4"],
+      "answer": "Put your answer here"
+    }
   ]
 },
 ```
 3. To add new questions use this format and adjust the snippet based upon if its a single question in a category or multiple. You can check the `questions.json` for an example
 ```
-{"question": "Put your question here", "answer": "Put your answer here"}
+"question": "Put your question here.",
+"choices": ["Option 1", "Option 2", "Option 3", "Option 4"],
+"answer": "Put the answer here"
 ```
 
 ## Contact
