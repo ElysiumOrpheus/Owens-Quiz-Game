@@ -1,261 +1,261 @@
 {
   "rock": {
     "200": [
-      {"question": "Who is known as the 'King of Rock and Roll'?", "answer": "Elvis Presley"},
-      {"question": "Which band released the album 'Dark Side of the Moon'?", "answer": "Pink Floyd"},
-      {"question": "Who sang 'Hotel California'?", "answer": "Eagles"},
-      {"question": "Which rock band is known for the song 'Stairway to Heaven'?", "answer": "Led Zeppelin"},
-      {"question": "Who is the lead singer of the Rolling Stones?", "answer": "Mick Jagger"}
+      {"question": "Who is known as the 'King of Rock and Roll'?", "choices": ["Buddy Holly", "Elvis Presley", "Chuck Berry", "Little Richard"], "answer": "Elvis Presley"},
+      {"question": "Which band released the album 'Dark Side of the Moon'?", "choices": ["Pink Floyd", "The Beatles", "Led Zeppelin", "The Rolling Stones"], "answer": "Pink Floyd"},
+      {"question": "Who sang 'Hotel California'?", "choices": ["Eagles", "Fleetwood Mac", "The Doobie Brothers", "The Byrds"], "answer": "Eagles"},
+      {"question": "Which rock band is known for the song 'Stairway to Heaven'?", "choices": ["Led Zeppelin", "Pink Floyd", "The Who", "Black Sabbath"], "answer": "Led Zeppelin"},
+      {"question": "Who is the lead singer of the Rolling Stones?", "choices": ["Keith Richards", "Mick Jagger", "Ronnie Wood", "Charlie Watts"], "answer": "Mick Jagger"}
     ],
     "400": [
-      {"question": "Which band released the song 'Bohemian Rhapsody'?", "answer": "Queen"},
-      {"question": "Who is the lead guitarist of Guns N' Roses?", "answer": "Slash"},
-      {"question": "Which band is known for the song 'Sweet Child O' Mine'?", "answer": "Guns N' Roses"},
-      {"question": "Who was the drummer for The Beatles?", "answer": "Ringo Starr"},
-      {"question": "Which band released 'Back in Black'?", "answer": "AC/DC"}
+      {"question": "Which band released the song 'Bohemian Rhapsody'?", "choices": ["Queen", "The Beatles", "The Rolling Stones", "Pink Floyd"], "answer": "Queen"},
+      {"question": "Who is the lead guitarist of Guns N' Roses?", "choices": ["Slash", "Kirk Hammett", "Angus Young", "Brian May"], "answer": "Slash"},
+      {"question": "Which band is known for the song 'Sweet Child O' Mine'?", "choices": ["Guns N' Roses", "Nirvana", "Metallica", "Aerosmith"], "answer": "Guns N' Roses"},
+      {"question": "Who was the drummer for The Beatles?", "choices": ["Ringo Starr", "John Bonham", "Keith Moon", "Charlie Watts"], "answer": "Ringo Starr"},
+      {"question": "Which band released 'Back in Black'?", "choices": ["AC/DC", "Led Zeppelin", "Metallica", "Pink Floyd"], "answer": "AC/DC"}
     ],
     "600": [
-      {"question": "Who was the original lead singer of AC/DC?", "answer": "Bon Scott"},
-      {"question": "Which band released the song 'Enter Sandman'?", "answer": "Metallica"},
-      {"question": "Who is the lead singer of U2?", "answer": "Bono"},
-      {"question": "Which rock band is known for the song 'Living on a Prayer'?", "answer": "Bon Jovi"},
-      {"question": "Who is the lead guitarist of Led Zeppelin?", "answer": "Jimmy Page"}
+      {"question": "Who was the original lead singer of AC/DC?", "choices": ["Brian Johnson", "Bon Scott", "Angus Young", "Cliff Williams"], "answer": "Bon Scott"},
+      {"question": "Which band released the song 'Enter Sandman'?", "choices": ["Metallica", "Megadeth", "Slayer", "Anthrax"], "answer": "Metallica"},
+      {"question": "Who is the lead singer of U2?", "choices": ["Bono", "The Edge", "Adam Clayton", "Larry Mullen Jr."], "answer": "Bono"},
+      {"question": "Which rock band is known for the song 'Living on a Prayer'?", "choices": ["Bon Jovi", "Journey", "Foreigner", "REO Speedwagon"], "answer": "Bon Jovi"},
+      {"question": "Who is the lead guitarist of Led Zeppelin?", "choices": ["Jimmy Page", "Eric Clapton", "Jimi Hendrix", "Keith Richards"], "answer": "Jimmy Page"}
     ],
     "800": [
-      {"question": "Which band released the album 'Nevermind'?", "answer": "Nirvana"},
-      {"question": "Who is known as the 'Godfather of Punk'?", "answer": "Iggy Pop"},
-      {"question": "Which band is known for the song 'Purple Haze'?", "answer": "Jimi Hendrix Experience"},
-      {"question": "Who is the lead singer of Aerosmith?", "answer": "Steven Tyler"},
-      {"question": "Which band released the song 'Smoke on the Water'?", "answer": "Deep Purple"}
+      {"question": "Which band released the album 'Nevermind'?", "choices": ["Nirvana", "Pearl Jam", "Soundgarden", "Alice in Chains"], "answer": "Nirvana"},
+      {"question": "Who is known as the 'Godfather of Punk'?", "choices": ["Iggy Pop", "Johnny Rotten", "Joe Strummer", "Henry Rollins"], "answer": "Iggy Pop"},
+      {"question": "Which band is known for the song 'Purple Haze'?", "choices": ["Jimi Hendrix Experience", "Cream", "The Doors", "The Who"], "answer": "Jimi Hendrix Experience"},
+      {"question": "Who is the lead singer of Aerosmith?", "choices": ["Steven Tyler", "David Lee Roth", "Joe Perry", "Mick Jagger"], "answer": "Steven Tyler"},
+      {"question": "Which band released the song 'Smoke on the Water'?", "choices": ["Deep Purple", "Led Zeppelin", "Black Sabbath", "Pink Floyd"], "answer": "Deep Purple"}
     ],
     "1000": [
-      {"question": "Who was the lead singer of The Doors?", "answer": "Jim Morrison"},
-      {"question": "Which band is known for the album 'Physical Graffiti'?", "answer": "Led Zeppelin"},
-      {"question": "Who is the bassist of Red Hot Chili Peppers?", "answer": "Flea"},
-      {"question": "Which band released the song 'Hotel California'?", "answer": "Eagles"},
-      {"question": "Who was the original lead guitarist of The Yardbirds?", "answer": "Eric Clapton"}
+      {"question": "Who was the lead singer of The Doors?", "choices": ["Jim Morrison", "Robert Plant", "Roger Daltrey", "Freddie Mercury"], "answer": "Jim Morrison"},
+      {"question": "Which band is known for the album 'Physical Graffiti'?", "choices": ["Led Zeppelin", "Pink Floyd", "The Rolling Stones", "The Beatles"], "answer": "Led Zeppelin"},
+      {"question": "Who is the bassist of Red Hot Chili Peppers?", "choices": ["Flea", "John Paul Jones", "Geddy Lee", "Paul McCartney"], "answer": "Flea"},
+      {"question": "Which band released the song 'Hotel California'?", "choices": ["Eagles", "Fleetwood Mac", "The Doobie Brothers", "The Byrds"], "answer": "Eagles"},
+      {"question": "Who was the original lead guitarist of The Yardbirds?", "choices": ["Eric Clapton", "Jimmy Page", "Jeff Beck", "Keith Richards"], "answer": "Eric Clapton"}
     ]
   },
   "metal": {
     "200": [
-      {"question": "Which band released the album 'Master of Puppets'?", "answer": "Metallica"},
-      {"question": "Who is the lead singer of Iron Maiden?", "answer": "Bruce Dickinson"},
-      {"question": "Which band is known for the song 'Paranoid'?", "answer": "Black Sabbath"},
-      {"question": "Who is the lead guitarist of Metallica?", "answer": "Kirk Hammett"},
-      {"question": "Which band released 'Painkiller'?", "answer": "Judas Priest"}
+      {"question": "Which band released the album 'Master of Puppets'?", "choices": ["Metallica", "Slayer", "Megadeth", "Anthrax"], "answer": "Metallica"},
+      {"question": "Who is the lead singer of Iron Maiden?", "choices": ["Bruce Dickinson", "Rob Halford", "Ozzy Osbourne", "James Hetfield"], "answer": "Bruce Dickinson"},
+      {"question": "Which band is known for the song 'Paranoid'?", "choices": ["Black Sabbath", "Judas Priest", "Iron Maiden", "Slayer"], "answer": "Black Sabbath"},
+      {"question": "Who is the lead guitarist of Metallica?", "choices": ["Kirk Hammett", "James Hetfield", "Dave Mustaine", "Tom Morello"], "answer": "Kirk Hammett"},
+      {"question": "Which band released 'Painkiller'?", "choices": ["Judas Priest", "Iron Maiden", "Black Sabbath", "Slayer"], "answer": "Judas Priest"}
     ],
     "400": [
-      {"question": "Who is the bassist and lead singer of Motörhead?", "answer": "Lemmy Kilmister"},
-      {"question": "Which band released the song 'Breaking the Law'?", "answer": "Judas Priest"},
-      {"question": "Who is the drummer for Metallica?", "answer": "Lars Ulrich"},
-      {"question": "Which band released the song 'Ace of Spades'?", "answer": "Motörhead"},
-      {"question": "Who is the lead singer of Black Sabbath?", "answer": "Ozzy Osbourne"}
+      {"question": "Who is the bassist and lead singer of Motörhead?", "choices": ["Lemmy Kilmister", "Phil Anselmo", "Tom Araya", "Cliff Burton"], "answer": "Lemmy Kilmister"},
+      {"question": "Which band released the song 'Breaking the Law'?", "choices": ["Judas Priest", "Black Sabbath", "Iron Maiden", "Metallica"], "answer": "Judas Priest"},
+      {"question": "Who is the drummer for Metallica?", "choices": ["Lars Ulrich", "Dave Lombardo", "Nicko McBrain", "Joey Jordison"], "answer": "Lars Ulrich"},
+      {"question": "Which band released the song 'Ace of Spades'?", "choices": ["Motörhead", "Megadeth", "Anthrax", "Slayer"], "answer": "Motörhead"},
+      {"question": "Who is the lead singer of Black Sabbath?", "choices": ["Ozzy Osbourne", "Rob Halford", "Bruce Dickinson", "James Hetfield"], "answer": "Ozzy Osbourne"}
     ],
     "600": [
-      {"question": "Which band released the album 'Reign in Blood'?", "answer": "Slayer"},
-      {"question": "Who is the lead guitarist of Megadeth?", "answer": "Dave Mustaine"},
-      {"question": "Which band is known for the song 'Walk'?", "answer": "Pantera"},
-      {"question": "Who is the lead singer of Slipknot?", "answer": "Corey Taylor"},
-      {"question": "Which band released the album 'Toxicity'?", "answer": "System of a Down"}
+      {"question": "Which band released the album 'Reign in Blood'?", "choices": ["Slayer", "Metallica", "Megadeth", "Anthrax"], "answer": "Slayer"},
+      {"question": "Who is the lead guitarist of Megadeth?", "choices": ["Dave Mustaine", "Kirk Hammett", "James Hetfield", "Kerry King"], "answer": "Dave Mustaine"},
+      {"question": "Which band is known for the song 'Walk'?", "choices": ["Pantera", "Slayer", "Metallica", "Megadeth"], "answer": "Pantera"},
+      {"question": "Who is the lead singer of Slipknot?", "choices": ["Corey Taylor", "Chester Bennington", "David Draiman", "M. Shadows"], "answer": "Corey Taylor"},
+      {"question": "Which band released the album 'Toxicity'?", "choices": ["System of a Down", "Disturbed", "Korn", "Slipknot"], "answer": "System of a Down"}
     ],
     "800": [
-      {"question": "Which band released the song 'Fear of the Dark'?", "answer": "Iron Maiden"},
-      {"question": "Who is the lead singer of Pantera?", "answer": "Phil Anselmo"},
-      {"question": "Which band released the song 'Raining Blood'?", "answer": "Slayer"},
-      {"question": "Who is the drummer for Iron Maiden?", "answer": "Nicko McBrain"},
-      {"question": "Which band is known for the album 'Rust in Peace'?", "answer": "Megadeth"}
+      {"question": "Which band released the song 'Fear of the Dark'?", "choices": ["Iron Maiden", "Black Sabbath", "Judas Priest", "Slayer"], "answer": "Iron Maiden"},
+      {"question": "Who is the lead singer of Pantera?", "choices": ["Phil Anselmo", "Dimebag Darrell", "Vinnie Paul", "Rex Brown"], "answer": "Phil Anselmo"},
+      {"question": "Which band released the song 'Raining Blood'?", "choices": ["Slayer", "Metallica", "Megadeth", "Anthrax"], "answer": "Slayer"},
+      {"question": "Who is the drummer for Iron Maiden?", "choices": ["Nicko McBrain", "Lars Ulrich", "Dave Lombardo", "Joey Jordison"], "answer": "Nicko McBrain"},
+      {"question": "Which band is known for the album 'Rust in Peace'?", "choices": ["Megadeth", "Metallica", "Slayer", "Anthrax"], "answer": "Megadeth"}
     ],
     "1000": [
-      {"question": "Who is the bassist for Iron Maiden?", "answer": "Steve Harris"},
-      {"question": "Which band released the album 'Ride the Lightning'?", "answer": "Metallica"},
-      {"question": "Who is the lead guitarist of Slayer?", "answer": "Kerry King"},
-      {"question": "Which band released the song 'Symphony of Destruction'?", "answer": "Megadeth"},
-      {"question": "Who is the drummer for Slipknot?", "answer": "Joey Jordison"}
+      {"question": "Who is the bassist for Iron Maiden?", "choices": ["Steve Harris", "Cliff Burton", "Geddy Lee", "Nikki Sixx"], "answer": "Steve Harris"},
+      {"question": "Which band released the album 'Ride the Lightning'?", "choices": ["Metallica", "Slayer", "Megadeth", "Anthrax"], "answer": "Metallica"},
+      {"question": "Who is the lead guitarist of Slayer?", "choices": ["Kerry King", "Jeff Hanneman", "Dave Mustaine", "Scott Ian"], "answer": "Kerry King"},
+      {"question": "Which band released the song 'Symphony of Destruction'?", "choices": ["Megadeth", "Metallica", "Slayer", "Anthrax"], "answer": "Megadeth"},
+      {"question": "Who is the drummer for Slipknot?", "choices": ["Joey Jordison", "Lars Ulrich", "Nicko McBrain", "Dave Lombardo"], "answer": "Joey Jordison"}
     ]
   },
   "pop": {
     "200": [
-      {"question": "Who is known as the 'Queen of Pop'?", "answer": "Madonna"},
-      {"question": "Which artist released the album 'Thriller'?", "answer": "Michael Jackson"},
-      {"question": "Who is known for the song 'Baby One More Time'?", "answer": "Britney Spears"},
-      {"question": "Which artist released the song 'Shape of You'?", "answer": "Ed Sheeran"},
-      {"question": "Who is known for the song 'Poker Face'?", "answer": "Lady Gaga"}
+      {"question": "Who is known as the 'Queen of Pop'?", "choices": ["Madonna", "Britney Spears", "Lady Gaga", "Taylor Swift"], "answer": "Madonna"},
+      {"question": "Which artist released the album 'Thriller'?", "choices": ["Michael Jackson", "Prince", "Madonna", "Whitney Houston"], "answer": "Michael Jackson"},
+      {"question": "Who is known for the song 'Baby One More Time'?", "choices": ["Britney Spears", "Christina Aguilera", "Jessica Simpson", "Mandy Moore"], "answer": "Britney Spears"},
+      {"question": "Which artist released the song 'Shape of You'?", "choices": ["Ed Sheeran", "Justin Bieber", "Shawn Mendes", "Bruno Mars"], "answer": "Ed Sheeran"},
+      {"question": "Who is known for the song 'Poker Face'?", "choices": ["Lady Gaga", "Katy Perry", "Rihanna", "Beyoncé"], "answer": "Lady Gaga"}
     ],
     "400": [
-      {"question": "Which artist released the song 'Firework'?", "answer": "Katy Perry"},
-      {"question": "Who is known for the song 'Uptown Funk'?", "answer": "Mark Ronson ft. Bruno Mars"},
-      {"question": "Which artist released the album '1989'?", "answer": "Taylor Swift"},
-      {"question": "Who is known for the song 'Havana'?", "answer": "Camila Cabello"},
-      {"question": "Which artist released the song 'Hello'?", "answer": "Adele"}
+      {"question": "Which artist released the song 'Firework'?", "choices": ["Katy Perry", "Taylor Swift", "Lady Gaga", "Rihanna"], "answer": "Katy Perry"},
+      {"question": "Who is known for the song 'Uptown Funk'?", "choices": ["Mark Ronson ft. Bruno Mars", "Pharrell Williams", "Justin Timberlake", "Pitbull"], "answer": "Mark Ronson ft. Bruno Mars"},
+      {"question": "Which artist released the album '1989'?", "choices": ["Taylor Swift", "Adele", "Katy Perry", "Beyoncé"], "answer": "Taylor Swift"},
+      {"question": "Who is known for the song 'Havana'?", "choices": ["Camila Cabello", "Ariana Grande", "Selena Gomez", "Demi Lovato"], "answer": "Camila Cabello"},
+      {"question": "Which artist released the song 'Hello'?", "choices": ["Adele", "Beyoncé", "Taylor Swift", "Rihanna"], "answer": "Adele"}
     ],
     "600": [
-      {"question": "Which artist released the song 'Can't Stop the Feeling'?", "answer": "Justin Timberlake"},
-      {"question": "Who is known for the song 'Rolling in the Deep'?", "answer": "Adele"},
-      {"question": "Which artist released the album 'Future Nostalgia'?", "answer": "Dua Lipa"},
-      {"question": "Who is known for the song 'Blinding Lights'?", "answer": "The Weeknd"},
-      {"question": "Which artist released the song 'Bad Guy'?", "answer": "Billie Eilish"}
+      {"question": "Which artist released the song 'Can't Stop the Feeling'?", "choices": ["Justin Timberlake", "Bruno Mars", "Pharrell Williams", "Shawn Mendes"], "answer": "Justin Timberlake"},
+      {"question": "Who is known for the song 'Rolling in the Deep'?", "choices": ["Adele", "Amy Winehouse", "Duffy", "Leona Lewis"], "answer": "Adele"},
+      {"question": "Which artist released the album 'Future Nostalgia'?", "choices": ["Dua Lipa", "Ariana Grande", "Selena Gomez", "Camila Cabello"], "answer": "Dua Lipa"},
+      {"question": "Who is known for the song 'Blinding Lights'?", "choices": ["The Weeknd", "Drake", "Post Malone", "Justin Bieber"], "answer": "The Weeknd"},
+      {"question": "Which artist released the song 'Bad Guy'?", "choices": ["Billie Eilish", "Halsey", "Lorde", "Sia"], "answer": "Billie Eilish"}
     ],
     "800": [
-      {"question": "Which artist released the song 'Roar'?", "answer": "Katy Perry"},
-      {"question": "Who is known for the song 'Shallow'?", "answer": "Lady Gaga and Bradley Cooper"},
-      {"question": "Which artist released the album 'When We All Fall Asleep, Where Do We Go?'?", "answer": "Billie Eilish"},
-      {"question": "Who is known for the song 'Senorita'?", "answer": "Shawn Mendes and Camila Cabello"},
-      {"question": "Which artist released the song 'Levitating'?", "answer": "Dua Lipa"}
+      {"question": "Which artist released the song 'Roar'?", "choices": ["Katy Perry", "Lady Gaga", "Taylor Swift", "Ariana Grande"], "answer": "Katy Perry"},
+      {"question": "Who is known for the song 'Shallow'?", "choices": ["Lady Gaga and Bradley Cooper", "Adele and Sam Smith", "Beyoncé and Jay-Z", "Taylor Swift and Ed Sheeran"], "answer": "Lady Gaga and Bradley Cooper"},
+      {"question": "Which artist released the album 'When We All Fall Asleep, Where Do We Go?'?", "choices": ["Billie Eilish", "Lorde", "Halsey", "Lana Del Rey"], "answer": "Billie Eilish"},
+      {"question": "Who is known for the song 'Senorita'?", "choices": ["Shawn Mendes and Camila Cabello", "Justin Bieber and Selena Gomez", "Ed Sheeran and Taylor Swift", "Nick Jonas and Demi Lovato"], "answer": "Shawn Mendes and Camila Cabello"},
+      {"question": "Which artist released the song 'Levitating'?", "choices": ["Dua Lipa", "Ariana Grande", "Selena Gomez", "Camila Cabello"], "answer": "Dua Lipa"}
     ],
     "1000": [
-      {"question": "Who is known as the 'Prince of Pop'?", "answer": "Justin Bieber"},
-      {"question": "Which artist released the album '25'?", "answer": "Adele"},
-      {"question": "Who is known for the song 'Love Yourself'?", "answer": "Justin Bieber"},
-      {"question": "Which artist released the song 'Shake It Off'?", "answer": "Taylor Swift"},
-      {"question": "Who is known for the song '7 Rings'?", "answer": "Ariana Grande"}
+      {"question": "Who is known as the 'Prince of Pop'?", "choices": ["Justin Bieber", "Shawn Mendes", "Harry Styles", "Bruno Mars"], "answer": "Justin Bieber"},
+      {"question": "Which artist released the album '25'?", "choices": ["Adele", "Taylor Swift", "Beyoncé", "Rihanna"], "answer": "Adele"},
+      {"question": "Who is known for the song 'Love Yourself'?", "choices": ["Justin Bieber", "Ed Sheeran", "Shawn Mendes", "Charlie Puth"], "answer": "Justin Bieber"},
+      {"question": "Which artist released the song 'Shake It Off'?", "choices": ["Taylor Swift", "Katy Perry", "Ariana Grande", "Demi Lovato"], "answer": "Taylor Swift"},
+      {"question": "Who is known for the song '7 Rings'?", "choices": ["Ariana Grande", "Selena Gomez", "Miley Cyrus", "Demi Lovato"], "answer": "Ariana Grande"}
     ]
   },
   "country": {
     "200": [
-      {"question": "Who is known as the 'King of Country'?", "answer": "George Strait"},
-      {"question": "Which artist released the song 'Jolene'?", "answer": "Dolly Parton"},
-      {"question": "Who is known for the song 'Friends in Low Places'?", "answer": "Garth Brooks"},
-      {"question": "Which artist released the song 'Take Me Home, Country Roads'?", "answer": "John Denver"},
-      {"question": "Who is known for the song 'The Gambler'?", "answer": "Kenny Rogers"}
+      {"question": "Who is known as the 'King of Country'?", "choices": ["George Strait", "Garth Brooks", "Johnny Cash", "Willie Nelson"], "answer": "George Strait"},
+      {"question": "Which artist released the song 'Jolene'?", "choices": ["Dolly Parton", "Patsy Cline", "Reba McEntire", "Shania Twain"], "answer": "Dolly Parton"},
+      {"question": "Who is known for the song 'Friends in Low Places'?", "choices": ["Garth Brooks", "Alan Jackson", "George Strait", "Randy Travis"], "answer": "Garth Brooks"},
+      {"question": "Which artist released the song 'Take Me Home, Country Roads'?", "choices": ["John Denver", "Willie Nelson", "Johnny Cash", "Merle Haggard"], "answer": "John Denver"},
+      {"question": "Who is known for the song 'The Gambler'?", "choices": ["Kenny Rogers", "Johnny Cash", "Waylon Jennings", "George Jones"], "answer": "Kenny Rogers"}
     ],
     "400": [
-      {"question": "Which artist released the song 'Before He Cheats'?", "answer": "Carrie Underwood"},
-      {"question": "Who is known for the song 'Ring of Fire'?", "answer": "Johnny Cash"},
-      {"question": "Which artist released the album 'Fearless'?", "answer": "Taylor Swift"},
-      {"question": "Who is known for the song 'Blue Ain't Your Color'?", "answer": "Keith Urban"},
-      {"question": "Which artist released the song 'Cruise'?", "answer": "Florida Georgia Line"}
+      {"question": "Which artist released the song 'Before He Cheats'?", "choices": ["Carrie Underwood", "Miranda Lambert", "Martina McBride", "Faith Hill"], "answer": "Carrie Underwood"},
+      {"question": "Who is known for the song 'Ring of Fire'?", "choices": ["Johnny Cash", "Willie Nelson", "Waylon Jennings", "Merle Haggard"], "answer": "Johnny Cash"},
+      {"question": "Which artist released the album 'Fearless'?", "choices": ["Taylor Swift", "Carrie Underwood", "Miranda Lambert", "Faith Hill"], "answer": "Taylor Swift"},
+      {"question": "Who is known for the song 'Blue Ain't Your Color'?", "choices": ["Keith Urban", "Blake Shelton", "Luke Bryan", "Tim McGraw"], "answer": "Keith Urban"},
+      {"question": "Which artist released the song 'Cruise'?", "choices": ["Florida Georgia Line", "Zac Brown Band", "Lady A", "Little Big Town"], "answer": "Florida Georgia Line"}
     ],
     "600": [
-      {"question": "Which artist released the song 'Need You Now'?", "answer": "Lady A"},
-      {"question": "Who is known for the song 'Die a Happy Man'?", "answer": "Thomas Rhett"},
-      {"question": "Which artist released the song 'Girl Crush'?", "answer": "Little Big Town"},
-      {"question": "Who is known for the song 'Tennessee Whiskey'?", "answer": "Chris Stapleton"},
-      {"question": "Which artist released the song 'Dirt Road Anthem'?", "answer": "Jason Aldean"}
+      {"question": "Which artist released the song 'Need You Now'?", "choices": ["Lady A", "Little Big Town", "Zac Brown Band", "Florida Georgia Line"], "answer": "Lady A"},
+      {"question": "Who is known for the song 'Die a Happy Man'?", "choices": ["Thomas Rhett", "Sam Hunt", "Luke Bryan", "Jason Aldean"], "answer": "Thomas Rhett"},
+      {"question": "Which artist released the song 'Girl Crush'?", "choices": ["Little Big Town", "Lady A", "Florida Georgia Line", "Zac Brown Band"], "answer": "Little Big Town"},
+      {"question": "Who is known for the song 'Tennessee Whiskey'?", "choices": ["Chris Stapleton", "George Strait", "Garth Brooks", "Blake Shelton"], "answer": "Chris Stapleton"},
+      {"question": "Which artist released the song 'Dirt Road Anthem'?", "choices": ["Jason Aldean", "Luke Bryan", "Blake Shelton", "Eric Church"], "answer": "Jason Aldean"}
     ],
     "800": [
-      {"question": "Which artist released the song 'Body Like a Back Road'?", "answer": "Sam Hunt"},
-      {"question": "Who is known for the song 'My Church'?", "answer": "Maren Morris"},
-      {"question": "Which artist released the album 'Traveller'?", "answer": "Chris Stapleton"},
-      {"question": "Who is known for the song 'Wagon Wheel'?", "answer": "Darius Rucker"},
-      {"question": "Which artist released the song 'American Honey'?", "answer": "Lady A"}
+      {"question": "Which artist released the song 'Body Like a Back Road'?", "choices": ["Sam Hunt", "Thomas Rhett", "Luke Bryan", "Jason Aldean"], "answer": "Sam Hunt"},
+      {"question": "Who is known for the song 'My Church'?", "choices": ["Maren Morris", "Kelsea Ballerini", "Miranda Lambert", "Carrie Underwood"], "answer": "Maren Morris"},
+      {"question": "Which artist released the album 'Traveller'?", "choices": ["Chris Stapleton", "Eric Church", "Luke Bryan", "Jason Aldean"], "answer": "Chris Stapleton"},
+      {"question": "Who is known for the song 'Wagon Wheel'?", "choices": ["Darius Rucker", "Zac Brown Band", "Lady A", "Florida Georgia Line"], "answer": "Darius Rucker"},
+      {"question": "Which artist released the song 'American Honey'?", "choices": ["Lady A", "Little Big Town", "Zac Brown Band", "Florida Georgia Line"], "answer": "Lady A"}
     ],
     "1000": [
-      {"question": "Who is known as the 'Queen of Country'?", "answer": "Reba McEntire"},
-      {"question": "Which artist released the song 'Fancy'?", "answer": "Reba McEntire"},
-      {"question": "Who is known for the song 'Achy Breaky Heart'?", "answer": "Billy Ray Cyrus"},
-      {"question": "Which artist released the song 'Something in the Orange'?", "answer": "Zach Bryan"},
-      {"question": "Who is known for the song 'Cowboy Take Me Away'?", "answer": "Dixie Chicks"}
+      {"question": "Who is known as the 'Queen of Country'?", "choices": ["Reba McEntire", "Dolly Parton", "Patsy Cline", "Shania Twain"], "answer": "Reba McEntire"},
+      {"question": "Which artist released the song 'Fancy'?", "choices": ["Reba McEntire", "Dolly Parton", "Shania Twain", "Faith Hill"], "answer": "Reba McEntire"},
+      {"question": "Who is known for the song 'Achy Breaky Heart'?", "choices": ["Billy Ray Cyrus", "Garth Brooks", "George Strait", "Alan Jackson"], "answer": "Billy Ray Cyrus"},
+      {"question": "Which artist released the song 'Something in the Orange'?", "choices": ["Zach Bryan", "Chris Stapleton", "Luke Combs", "Jason Isbell"], "answer": "Zach Bryan"},
+      {"question": "Who is known for the song 'Cowboy Take Me Away'?", "choices": ["Dixie Chicks", "Lady A", "Little Big Town", "Zac Brown Band"], "answer": "Dixie Chicks"}
     ]
   },
   "jazz": {
     "200": [
-      {"question": "Who is known as the 'Father of Jazz'?", "answer": "Louis Armstrong"},
-      {"question": "Which artist released the album 'Kind of Blue'?", "answer": "Miles Davis"},
-      {"question": "Who is known for the song 'Take Five'?", "answer": "Dave Brubeck"},
-      {"question": "Which artist released the song 'What a Wonderful World'?", "answer": "Louis Armstrong"},
-      {"question": "Who is known for the song 'Feeling Good'?", "answer": "Nina Simone"}
+      {"question": "Who is known as the 'Father of Jazz'?", "choices": ["Louis Armstrong", "Duke Ellington", "Charlie Parker", "Miles Davis"], "answer": "Louis Armstrong"},
+      {"question": "Which artist released the album 'Kind of Blue'?", "choices": ["Miles Davis", "John Coltrane", "Thelonious Monk", "Charlie Parker"], "answer": "Miles Davis"},
+      {"question": "Who is known for the song 'Take Five'?", "choices": ["Dave Brubeck", "John Coltrane", "Miles Davis", "Thelonious Monk"], "answer": "Dave Brubeck"},
+      {"question": "Which artist released the song 'What a Wonderful World'?", "choices": ["Louis Armstrong", "Ella Fitzgerald", "Billie Holiday", "Nina Simone"], "answer": "Louis Armstrong"},
+      {"question": "Who is known for the song 'Feeling Good'?", "choices": ["Nina Simone", "Billie Holiday", "Ella Fitzgerald", "Sarah Vaughan"], "answer": "Nina Simone"}
     ],
     "400": [
-      {"question": "Which artist released the album 'A Love Supreme'?", "answer": "John Coltrane"},
-      {"question": "Who is known for the song 'Strange Fruit'?", "answer": "Billie Holiday"},
-      {"question": "Which artist released the song 'Summertime'?", "answer": "Ella Fitzgerald"},
-      {"question": "Who is known for the song 'My Favorite Things'?", "answer": "John Coltrane"},
-      {"question": "Which artist released the song 'Misty'?", "answer": "Erroll Garner"}
+      {"question": "Which artist released the album 'A Love Supreme'?", "choices": ["John Coltrane", "Miles Davis", "Charlie Parker", "Thelonious Monk"], "answer": "John Coltrane"},
+      {"question": "Who is known for the song 'Strange Fruit'?", "choices": ["Billie Holiday", "Nina Simone", "Ella Fitzgerald", "Sarah Vaughan"], "answer": "Billie Holiday"},
+      {"question": "Which artist released the song 'Summertime'?", "choices": ["Ella Fitzgerald", "Louis Armstrong", "Billie Holiday", "Nina Simone"], "answer": "Ella Fitzgerald"},
+      {"question": "Who is known for the song 'My Favorite Things'?", "choices": ["John Coltrane", "Miles Davis", "Dave Brubeck", "Charlie Parker"], "answer": "John Coltrane"},
+      {"question": "Which artist released the song 'Misty'?", "choices": ["Erroll Garner", "Thelonious Monk", "Duke Ellington", "Count Basie"], "answer": "Erroll Garner"}
     ],
     "600": [
-      {"question": "Which artist released the song 'So What'?", "answer": "Miles Davis"},
-      {"question": "Who is known for the song 'At Last'?", "answer": "Etta James"},
-      {"question": "Which artist released the album 'Blue Train'?", "answer": "John Coltrane"},
-      {"question": "Who is known for the song 'Lullaby of Birdland'?", "answer": "Sarah Vaughan"},
-      {"question": "Which artist released the song 'In a Sentimental Mood'?", "answer": "Duke Ellington"}
+      {"question": "Which artist released the song 'So What'?", "choices": ["Miles Davis", "John Coltrane", "Thelonious Monk", "Charlie Parker"], "answer": "Miles Davis"},
+      {"question": "Who is known for the song 'At Last'?", "choices": ["Etta James", "Billie Holiday", "Ella Fitzgerald", "Sarah Vaughan"], "answer": "Etta James"},
+      {"question": "Which artist released the album 'Blue Train'?", "choices": ["John Coltrane", "Miles Davis", "Charlie Parker", "Thelonious Monk"], "answer": "John Coltrane"},
+      {"question": "Who is known for the song 'Lullaby of Birdland'?", "choices": ["Sarah Vaughan", "Ella Fitzgerald", "Billie Holiday", "Nina Simone"], "answer": "Sarah Vaughan"},
+      {"question": "Which artist released the song 'In a Sentimental Mood'?", "choices": ["Duke Ellington", "Miles Davis", "John Coltrane", "Charlie Parker"], "answer": "Duke Ellington"}
     ],
     "800": [
-      {"question": "Which artist released the album 'Time Out'?", "answer": "Dave Brubeck"},
-      {"question": "Who is known for the song 'Round Midnight'?", "answer": "Thelonious Monk"},
-      {"question": "Which artist released the song 'Autumn Leaves'?", "answer": "Cannonball Adderley"},
-      {"question": "Who is known for the song 'A Night in Tunisia'?", "answer": "Dizzy Gillespie"},
-      {"question": "Which artist released the album 'Mingus Ah Um'?", "answer": "Charles Mingus"}
+      {"question": "Which artist released the album 'Time Out'?", "choices": ["Dave Brubeck", "Miles Davis", "John Coltrane", "Thelonious Monk"], "answer": "Dave Brubeck"},
+      {"question": "Who is known for the song 'Round Midnight'?", "choices": ["Thelonious Monk", "Miles Davis", "John Coltrane", "Charlie Parker"], "answer": "Thelonious Monk"},
+      {"question": "Which artist released the song 'Autumn Leaves'?", "choices": ["Cannonball Adderley", "Miles Davis", "John Coltrane", "Thelonious Monk"], "answer": "Cannonball Adderley"},
+      {"question": "Who is known for the song 'A Night in Tunisia'?", "choices": ["Dizzy Gillespie", "Charlie Parker", "Miles Davis", "John Coltrane"], "answer": "Dizzy Gillespie"},
+      {"question": "Which artist released the album 'Mingus Ah Um'?", "choices": ["Charles Mingus", "Duke Ellington", "Count Basie", "Thelonious Monk"], "answer": "Charles Mingus"}
     ],
     "1000": [
-      {"question": "Who is known as the 'High Priest of Bebop'?", "answer": "Thelonious Monk"},
-      {"question": "Which artist released the song 'Moanin''?", "answer": "Art Blakey"},
-      {"question": "Who is known for the song 'Giant Steps'?", "answer": "John Coltrane"},
-      {"question": "Which artist released the album 'Bird and Diz'?", "answer": "Charlie Parker and Dizzy Gillespie"},
-      {"question": "Who is known for the song 'Goodbye Pork Pie Hat'?", "answer": "Charles Mingus"}
+      {"question": "Who is known as the 'High Priest of Bebop'?", "choices": ["Thelonious Monk", "Charlie Parker", "Miles Davis", "John Coltrane"], "answer": "Thelonious Monk"},
+      {"question": "Which artist released the song 'Moanin''?", "choices": ["Art Blakey", "John Coltrane", "Miles Davis", "Thelonious Monk"], "answer": "Art Blakey"},
+      {"question": "Who is known for the song 'Giant Steps'?", "choices": ["John Coltrane", "Miles Davis", "Charlie Parker", "Thelonious Monk"], "answer": "John Coltrane"},
+      {"question": "Which artist released the album 'Bird and Diz'?", "choices": ["Charlie Parker and Dizzy Gillespie", "Miles Davis and John Coltrane", "Thelonious Monk and Art Blakey", "Duke Ellington and Count Basie"], "answer": "Charlie Parker and Dizzy Gillespie"},
+      {"question": "Who is known for the song 'Goodbye Pork Pie Hat'?", "choices": ["Charles Mingus", "Duke Ellington", "Count Basie", "Thelonious Monk"], "answer": "Charles Mingus"}
     ]
   },
   "classical": {
     "200": [
-      {"question": "Who composed the 'Fifth Symphony'?", "answer": "Beethoven"},
-      {"question": "Which composer is known for the 'Four Seasons'?", "answer": "Vivaldi"},
-      {"question": "Who composed the 'Moonlight Sonata'?", "answer": "Beethoven"},
-      {"question": "Which composer is known for the 'Messiah'?", "answer": "Handel"},
-      {"question": "Who composed 'Eine kleine Nachtmusik'?", "answer": "Mozart"}
+      {"question": "Who composed the 'Fifth Symphony'?", "choices": ["Beethoven", "Mozart", "Bach", "Tchaikovsky"], "answer": "Beethoven"},
+      {"question": "Which composer is known for the 'Four Seasons'?", "choices": ["Vivaldi", "Bach", "Mozart", "Beethoven"], "answer": "Vivaldi"},
+      {"question": "Who composed the 'Moonlight Sonata'?", "choices": ["Beethoven", "Mozart", "Chopin", "Bach"], "answer": "Beethoven"},
+      {"question": "Which composer is known for the 'Messiah'?", "choices": ["Handel", "Bach", "Mozart", "Beethoven"], "answer": "Handel"},
+      {"question": "Who composed 'Eine kleine Nachtmusik'?", "choices": ["Mozart", "Beethoven", "Bach", "Vivaldi"], "answer": "Mozart"}
     ],
     "400": [
-      {"question": "Which composer is known for the 'Brandenburg Concertos'?", "answer": "Bach"},
-      {"question": "Who composed 'Symphony No. 9'?", "answer": "Beethoven"},
-      {"question": "Which composer is known for 'Carmen'?", "answer": "Bizet"},
-      {"question": "Who composed the 'Nutcracker Suite'?", "answer": "Tchaikovsky"},
-      {"question": "Which composer is known for the 'New World Symphony'?", "answer": "Dvorak"}
+      {"question": "Which composer is known for the 'Brandenburg Concertos'?", "choices": ["Bach", "Mozart", "Beethoven", "Vivaldi"], "answer": "Bach"},
+      {"question": "Who composed 'Symphony No. 9'?", "choices": ["Beethoven", "Mozart", "Bach", "Tchaikovsky"], "answer": "Beethoven"},
+      {"question": "Which composer is known for 'Carmen'?", "choices": ["Bizet", "Mozart", "Puccini", "Verdi"], "answer": "Bizet"},
+      {"question": "Who composed the 'Nutcracker Suite'?", "choices": ["Tchaikovsky", "Mozart", "Beethoven", "Bach"], "answer": "Tchaikovsky"},
+      {"question": "Which composer is known for the 'New World Symphony'?", "choices": ["Dvorak", "Beethoven", "Mozart", "Brahms"], "answer": "Dvorak"}
     ],
     "600": [
-      {"question": "Which composer is known for the 'Magic Flute'?", "answer": "Mozart"},
-      {"question": "Who composed 'Clair de Lune'?", "answer": "Debussy"},
-      {"question": "Which composer is known for 'Rhapsody in Blue'?", "answer": "Gershwin"},
-      {"question": "Who composed 'The Planets'?", "answer": "Holst"},
-      {"question": "Which composer is known for 'Bolero'?", "answer": "Ravel"}
+      {"question": "Which composer is known for the 'Magic Flute'?", "choices": ["Mozart", "Beethoven", "Bach", "Vivaldi"], "answer": "Mozart"},
+      {"question": "Who composed 'Clair de Lune'?", "choices": ["Debussy", "Ravel", "Saint-Saëns", "Satie"], "answer": "Debussy"},
+      {"question": "Which composer is known for 'Rhapsody in Blue'?", "choices": ["Gershwin", "Copland", "Barber", "Bernstein"], "answer": "Gershwin"},
+      {"question": "Who composed 'The Planets'?", "choices": ["Holst", "Beethoven", "Mozart", "Tchaikovsky"], "answer": "Holst"},
+      {"question": "Which composer is known for 'Bolero'?", "choices": ["Ravel", "Debussy", "Saint-Saëns", "Satie"], "answer": "Ravel"}
     ],
     "800": [
-      {"question": "Who composed 'Swan Lake'?", "answer": "Tchaikovsky"},
-      {"question": "Which composer is known for 'Rite of Spring'?", "answer": "Stravinsky"},
-      {"question": "Who composed the 'Pastoral Symphony'?", "answer": "Beethoven"},
-      {"question": "Which composer is known for the 'Surprise Symphony'?", "answer": "Haydn"},
-      {"question": "Who composed 'Pomp and Circumstance'?", "answer": "Elgar"}
+      {"question": "Who composed 'Swan Lake'?", "choices": ["Tchaikovsky", "Beethoven", "Mozart", "Bach"], "answer": "Tchaikovsky"},
+      {"question": "Which composer is known for 'Rite of Spring'?", "choices": ["Stravinsky", "Prokofiev", "Shostakovich", "Rachmaninoff"], "answer": "Stravinsky"},
+      {"question": "Who composed the 'Pastoral Symphony'?", "choices": ["Beethoven", "Mozart", "Bach", "Vivaldi"], "answer": "Beethoven"},
+      {"question": "Which composer is known for the 'Surprise Symphony'?", "choices": ["Haydn", "Mozart", "Beethoven", "Schubert"], "answer": "Haydn"},
+      {"question": "Who composed 'Pomp and Circumstance'?", "choices": ["Elgar", "Bach", "Beethoven", "Mozart"], "answer": "Elgar"}
     ],
     "1000": [
-      {"question": "Which composer is known for the 'Eroica Symphony'?", "answer": "Beethoven"},
-      {"question": "Who composed 'Firebird Suite'?", "answer": "Stravinsky"},
-      {"question": "Which composer is known for 'Finlandia'?", "answer": "Sibelius"},
-      {"question": "Who composed 'Symphonie Fantastique'?", "answer": "Berlioz"},
-      {"question": "Which composer is known for the 'Pathetique Symphony'?", "answer": "Tchaikovsky"}
+      {"question": "Which composer is known for the 'Eroica Symphony'?", "choices": ["Beethoven", "Mozart", "Bach", "Tchaikovsky"], "answer": "Beethoven"},
+      {"question": "Who composed 'Firebird Suite'?", "choices": ["Stravinsky", "Prokofiev", "Shostakovich", "Rachmaninoff"], "answer": "Stravinsky"},
+      {"question": "Which composer is known for 'Finlandia'?", "choices": ["Sibelius", "Grieg", "Nielsen", "Smetana"], "answer": "Sibelius"},
+      {"question": "Who composed 'Symphonie Fantastique'?", "choices": ["Berlioz", "Debussy", "Ravel", "Saint-Saëns"], "answer": "Berlioz"},
+      {"question": "Which composer is known for the 'Pathetique Symphony'?", "choices": ["Tchaikovsky", "Beethoven", "Brahms", "Bach"], "answer": "Tchaikovsky"}
     ]
   },
   "rap": {
     "200": [
-      {"question": "Who is known as the 'King of Rap'?", "answer": "Eminem"},
-      {"question": "Which artist released the album 'The Marshall Mathers LP'?", "answer": "Eminem"},
-      {"question": "Who is known for the song 'Juicy'?", "answer": "The Notorious B.I.G."},
-      {"question": "Which artist released the song 'Lose Yourself'?", "answer": "Eminem"},
-      {"question": "Who is known for the song 'Big Poppa'?", "answer": "The Notorious B.I.G."}
+      {"question": "Who is known as the 'King of Rap'?", "choices": ["Eminem", "Jay-Z", "Nas", "Dr. Dre"], "answer": "Eminem"},
+      {"question": "Which artist released the album 'The Marshall Mathers LP'?", "choices": ["Eminem", "Dr. Dre", "Snoop Dogg", "Jay-Z"], "answer": "Eminem"},
+      {"question": "Who is known for the song 'Juicy'?", "choices": ["The Notorious B.I.G.", "Tupac Shakur", "Jay-Z", "Nas"], "answer": "The Notorious B.I.G."},
+      {"question": "Which artist released the song 'Lose Yourself'?", "choices": ["Eminem", "Jay-Z", "Nas", "Kanye West"], "answer": "Eminem"},
+      {"question": "Who is known for the song 'Big Poppa'?", "choices": ["The Notorious B.I.G.", "Tupac Shakur", "Jay-Z", "Nas"], "answer": "The Notorious B.I.G."}
     ],
     "400": [
-      {"question": "Which artist released the album 'Illmatic'?", "answer": "Nas"},
-      {"question": "Who is known for the song 'Humble'?", "answer": "Kendrick Lamar"},
-      {"question": "Which artist released the song 'Gold Digger'?", "answer": "Kanye West"},
-      {"question": "Who is known for the song 'California Love'?", "answer": "2Pac"},
-      {"question": "Which artist released the song 'Sicko Mode'?", "answer": "Travis Scott"}
+      {"question": "Which artist released the album 'Illmatic'?", "choices": ["Nas", "Jay-Z", "Tupac Shakur", "The Notorious B.I.G."], "answer": "Nas"},
+      {"question": "Who is known for the song 'Humble'?", "choices": ["Kendrick Lamar", "Drake", "J. Cole", "Kanye West"], "answer": "Kendrick Lamar"},
+      {"question": "Which artist released the song 'Gold Digger'?", "choices": ["Kanye West", "Jay-Z", "Nas", "Tupac Shakur"], "answer": "Kanye West"},
+      {"question": "Who is known for the song 'California Love'?", "choices": ["2Pac", "Dr. Dre", "Snoop Dogg", "The Notorious B.I.G."], "answer": "2Pac"},
+      {"question": "Which artist released the song 'Sicko Mode'?", "choices": ["Travis Scott", "Kanye West", "Drake", "Lil Wayne"], "answer": "Travis Scott"}
     ],
     "600": [
-      {"question": "Which artist released the song 'N.Y. State of Mind'?", "answer": "Nas"},
-      {"question": "Who is known for the song 'Alright'?", "answer": "Kendrick Lamar"},
-      {"question": "Which artist released the album 'To Pimp a Butterfly'?", "answer": "Kendrick Lamar"},
-      {"question": "Who is known for the song 'Jesus Walks'?", "answer": "Kanye West"},
-      {"question": "Which artist released the song 'God's Plan'?", "answer": "Drake"}
+      {"question": "Which artist released the song 'N.Y. State of Mind'?", "choices": ["Nas", "Jay-Z", "The Notorious B.I.G.", "2Pac"], "answer": "Nas"},
+      {"question": "Who is known for the song 'Alright'?", "choices": ["Kendrick Lamar", "Drake", "J. Cole", "Kanye West"], "answer": "Kendrick Lamar"},
+      {"question": "Which artist released the album 'To Pimp a Butterfly'?", "choices": ["Kendrick Lamar", "Drake", "J. Cole", "Kanye West"], "answer": "Kendrick Lamar"},
+      {"question": "Who is known for the song 'Jesus Walks'?", "choices": ["Kanye West", "Jay-Z", "Nas", "2Pac"], "answer": "Kanye West"},
+      {"question": "Which artist released the song 'God's Plan'?", "choices": ["Drake", "Kanye West", "Lil Wayne", "Eminem"], "answer": "Drake"}
     ],
     "800": [
-      {"question": "Which artist released the album 'The Blueprint'?", "answer": "Jay-Z"},
-      {"question": "Who is known for the song 'Stan'?", "answer": "Eminem"},
-      {"question": "Which artist released the song 'Bodak Yellow'?", "answer": "Cardi B"},
-      {"question": "Who is known for the song 'In Da Club'?", "answer": "50 Cent"},
-      {"question": "Which artist released the song 'Bad and Boujee'?", "answer": "Migos"}
+      {"question": "Which artist released the album 'The Blueprint'?", "choices": ["Jay-Z", "Nas", "The Notorious B.I.G.", "2Pac"], "answer": "Jay-Z"},
+      {"question": "Who is known for the song 'Stan'?", "choices": ["Eminem", "Drake", "Kanye West", "Jay-Z"], "answer": "Eminem"},
+      {"question": "Which artist released the song 'Bodak Yellow'?", "choices": ["Cardi B", "Nicki Minaj", "Megan Thee Stallion", "Doja Cat"], "answer": "Cardi B"},
+      {"question": "Who is known for the song 'In Da Club'?", "choices": ["50 Cent", "Dr. Dre", "Snoop Dogg", "Eminem"], "answer": "50 Cent"},
+      {"question": "Which artist released the song 'Bad and Boujee'?", "choices": ["Migos", "Future", "Lil Uzi Vert", "Travis Scott"], "answer": "Migos"}
     ],
     "1000": [
-      {"question": "Who is known as the 'Godfather of Gangsta Rap'?", "answer": "Ice-T"},
-      {"question": "Which artist released the album 'The Chronic'?", "answer": "Dr. Dre"},
-      {"question": "Who is known for the song 'Gin and Juice'?", "answer": "Snoop Dogg"},
-      {"question": "Which artist released the song 'One Mic'?", "answer": "Nas"},
-      {"question": "Who is known for the song 'Dear Mama'?", "answer": "2Pac"}
+      {"question": "Who is known as the 'Godfather of Gangsta Rap'?", "choices": ["Ice-T", "Dr. Dre", "Snoop Dogg", "2Pac"], "answer": "Ice-T"},
+      {"question": "Which artist released the album 'The Chronic'?", "choices": ["Dr. Dre", "Snoop Dogg", "2Pac", "The Notorious B.I.G."], "answer": "Dr. Dre"},
+      {"question": "Who is known for the song 'Gin and Juice'?", "choices": ["Snoop Dogg", "Dr. Dre", "2Pac", "The Notorious B.I.G."], "answer": "Snoop Dogg"},
+      {"question": "Which artist released the song 'One Mic'?", "choices": ["Nas", "Jay-Z", "The Notorious B.I.G.", "2Pac"], "answer": "Nas"},
+      {"question": "Who is known for the song 'Dear Mama'?", "choices": ["2Pac", "The Notorious B.I.G.", "Jay-Z", "Nas"], "answer": "2Pac"}
     ]
   }
 }
