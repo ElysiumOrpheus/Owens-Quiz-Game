@@ -3,12 +3,13 @@ import random
 import tkinter as tk
 from tkinter import messagebox
 
-
+# Function to load questions from the questions.json file
 def load_questions(filename):
     with open(filename, 'r') as file:
         questions = json.load(file)
     return questions
 
+# Function to load highscores from the highscores.json file
 def load_high_scores(filename):
     try:
         with open(filename, 'r') as file:
@@ -17,15 +18,19 @@ def load_high_scores(filename):
         high_scores = {"highscores": []}
     return high_scores
 
+# Function to save high scores to a JSON file
 def save_high_scores(filename, high_scores):
     with open(filename, 'w') as file:
         json.dump(high_scores, file, indent=4)
 
+# Main class for my quiz game
 class QuizGame:
     def __init__(self, main_window):
         self.root = main_window
         self.root.title("Owen's Quiz Game")
         self.root.geometry("600x400")
+        
+        # Load questions and initialize variables
         self.questions = load_questions('questions.json')
         self.score = 0
         self.scores = [0, 0]
@@ -34,6 +39,8 @@ class QuizGame:
             category.lower(): [200, 400, 600, 800, 1000]
             for category in self.questions
         }
+        
+        # Initialize player and UI variables
         self.single_player = None
         self.mode_label = None
         self.single_player_button = None
@@ -61,8 +68,11 @@ class QuizGame:
         self.player_name_label = None
         self.player_name_entry = None
         self.start_button = None
+        
+        # Create the initial UI widgets
         self.create_widgets()
 
+    # Function to create the UI widgets
     def create_widgets(self):
         title_label = tk.Label(self.root, text="Welcome to Owen's Quiz Game!", font=("Helvetica", 16))
         title_label.pack(pady=10)
@@ -79,6 +89,7 @@ class QuizGame:
         self.quit_button = tk.Button(self.root, text="Quit", command=self.root.quit)
         self.quit_button.pack(side=tk.BOTTOM, pady=10)
 
+    # Function to start single player mode
     def single_player_mode(self):
         self.clear_widgets()
         self.player_name_label = tk.Label(self.root, text="Enter your name:")
@@ -90,6 +101,7 @@ class QuizGame:
         self.start_button = tk.Button(self.root, text="Start Game", command=self.start_single_player_game)
         self.start_button.pack(pady=5)
 
+    # Function to start single player mode
     def start_single_player_game(self):
         self.player_name = self.player_name_entry.get()
         if self.player_name:
@@ -98,16 +110,19 @@ class QuizGame:
         else:
             messagebox.showerror("Error", "Please enter your name.")
 
+    # Function to setup multiplayer
     def multiplayer_mode(self):
         self.scores = [0, 0]
         self.current_player = random.randint(0, 1)
         self.start_game(single_player=False)
 
+    # Function to start the game
     def start_game(self, single_player):
         self.clear_widgets()
         self.single_player = single_player
         self.show_question_selection()
 
+    # Function to clear the UI widgets
     def clear_widgets(self):
         if self.timer_id:
             self.root.after_cancel(self.timer_id)
@@ -115,6 +130,7 @@ class QuizGame:
         for widget in self.root.winfo_children():
             widget.destroy()
 
+    # Function to change the value menu based on the category that was chosen 
     def update_value_menu(self, selected_category):
         self.value_menu['menu'].delete(0, 'end')
         if selected_category in self.available_questions:
@@ -125,6 +141,7 @@ class QuizGame:
                 )
         self.value_menu.config(state=tk.NORMAL)
 
+    # Function to show the question choosing UI
     def show_question_selection(self):
         self.clear_widgets()
         if self.single_player:
@@ -159,6 +176,7 @@ class QuizGame:
         self.select_button = tk.Button(self.root, text="Select", command=self.select_question)
         self.select_button.pack(pady=5)
 
+    # Function to choose a question
     def select_question(self):
         category = self.category_var.get()
         value = self.value_var.get()
@@ -169,6 +187,7 @@ class QuizGame:
             self.feedback_label = tk.Label(self.root, text="Invalid category or value selection", fg="red")
             self.feedback_label.pack(pady=5)
 
+    # Function to display the question
     def ask_question(self, category, value):
         self.clear_widgets()
         self.category = category
@@ -191,6 +210,7 @@ class QuizGame:
         self.timer_label.pack(pady=10)
         self.update_timer()
 
+    # Function to update the timer
     def update_timer(self):
         if self.time_left > 0:
             self.time_left -= 1
@@ -201,6 +221,7 @@ class QuizGame:
             self.feedback_label.pack(pady=5)
             self.check_answer(None, timed_out=True)
 
+    # Function to  check if the answer is right
     def check_answer(self, question_data, timed_out=False):
         if self.timer_id:
             self.root.after_cancel(self.timer_id)
@@ -237,6 +258,7 @@ class QuizGame:
         self.time_left = 20
         self.root.after(2000, self.next_turn)
 
+    # Function to go to the next turn
     def next_turn(self):
         if any(values for values in self.available_questions.values()):
             if not self.single_player:
@@ -245,6 +267,7 @@ class QuizGame:
         else:
             self.end_game()
 
+    # Function to end the game and show the final scores if single player
     def end_game(self):
         self.clear_widgets()
 
@@ -273,7 +296,7 @@ class QuizGame:
 
         self.create_widgets()
 
-
+# Main function to start the game
 if __name__ == "__main__":
     root = tk.Tk()
     game = QuizGame(root)
